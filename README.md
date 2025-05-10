@@ -16,7 +16,7 @@ A web platform designed to streamline the organization and participation of coll
 - **Backend:** Php 
 - **Database:** MySQL
 - **Payment Gateway** Razorpay
-- 
+  
 ## 📦 Installation
 
 1. Clone the repository:
