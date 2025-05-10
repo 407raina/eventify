@@ -1,4 +1,4 @@
-# 🎓 College Event Management System
+# EVENTIFY
 
 A web platform designed to streamline the organization and participation of college-level events. Built for administrators, student organizers, and attendees to manage events efficiently.
 
