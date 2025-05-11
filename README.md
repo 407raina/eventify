@@ -2,6 +2,11 @@
 
 A web platform designed to streamline the organization and participation of college-level events. Built for administrators, student organizers, and attendees to manage events efficiently.
 
+# EVENTIFY demo:
+
+
+
+
 ## 🚀 Features
 
 - 🗓️ Create & manage events (technical, cultural, sports, etc.)
