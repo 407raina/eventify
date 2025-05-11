@@ -29,6 +29,8 @@ Admin Side - Event Admission
 Email Notification-SMTP
 
 
+
+
 ## 🚀 Features
 
 - 🗓️ Create & manage events (technical, cultural, sports, etc.)
