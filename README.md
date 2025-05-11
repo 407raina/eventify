@@ -1,6 +1,7 @@
-![7](https://github.com/user-attachments/assets/d4e7211a-f2aa-4d20-88a8-4e9a924ec841)# EVENTIFY
+# EVENTIFY
 
 A web platform designed to streamline the organization and participation of college-level events. Built for administrators, student organizers, and attendees to manage events efficiently.
+
 
 # EVENTIFY demo:
 
